@@ -11,9 +11,9 @@ h5 {
   margin: 0;
 }
 
-/* a {
-  display: inline;
-} */
+a {
+  text-decoration: none;
+}
 
 .weatherApp {
   max-width: 600px;
